@@ -1,3 +1,3 @@
 # Zero Site
 
-Deployed via OpenHands (ipy).
+A#1 via Zero (ipy).
