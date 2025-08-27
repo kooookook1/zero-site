@@ -1,0 +1,18 @@
+<!-- Simple hacker-styled SVG hero -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 220" width="100%" height="auto">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#7c5cff"/>
+      <stop offset="100%" stop-color="#19d3da"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="600" height="220" rx="16" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.08)"/>
+  <g fill="none" stroke="url(#g)" stroke-width="2" opacity="0.9">
+    <path d="M40 160 L80 80 L120 140 L160 60 L200 120 L240 70 L280 100 L320 50 L360 140 L400 80 L440 150 L480 90 L520 160"/>
+  </g>
+  <g font-family="monospace" font-size="20" fill="#b6b6c9">
+    <text x="32" y="48">$ sudo nmap -A 10.0.0.1</text>
+    <text x="32" y="76">$ curl -s https://onion/</text>
+    <text x="32" y="104">$ echo "stay anonymous"</text>
+  </g>
+</svg>
